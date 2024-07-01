@@ -4,6 +4,9 @@ Augmented Reality (AR) adalah teknologi keren yang memungkinkan kita melihat dun
 Salah satu teknik kunci dalam AR adalah Image Tracking. Teknik ini memungkinkan perangkat AR mengenali dan melacak gambar tertentu di dunia nyata, lalu menambahkan elemen digital di atas gambar tersebut. 
 Disini, saya akan mengajak kamu menjelajahi dunia AR bersama dan temukan bagaimana teknologi ini bisa membuat pengalaman sehari-hari kita jadi lebih menyenangkan dan informatif!
 
+## Disclaimer: Proyek Ini Dibuat Menggunakan Unity Hub
+Proyek Augmented Reality (AR) ini dikembangkan dan dikompilasi menggunakan **Unity Hub**. Saya menyarankan agar kamu juga menggunakan Unity Hub untuk membuka dan mengelola proyek ini, karena beberapa aset tidak dapat dipanggil dengan benar jika menggunakan Visual Studio Code.
+
 ## Video Demo ->> Live Praktek
 [![Demo Video](https://img.youtube.com/vi/A4a-4dPn1Oo/0.jpg)](https://youtu.be/A4a-4dPn1Oo?si=kdxmVnfiuiJBroik)
 
